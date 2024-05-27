@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -34,7 +34,7 @@
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
+ - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
 
 ### Bios Setup
 

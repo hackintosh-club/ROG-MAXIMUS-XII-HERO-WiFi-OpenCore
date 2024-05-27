@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 ### 支持的系统版本
 
@@ -34,7 +34,7 @@
 
 ### 注意事项
 
- - 使用[OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/)修改SMBIOS，重新生成三码
+ - 安装成功后必须使用[OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)修改SMBIOS重新生成三码
 
 ### Bios Setup
 
